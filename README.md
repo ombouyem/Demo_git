@@ -1,3 +1,4 @@
 # Demo_git
-Une demo de git
-Qui se passe bien ...
+Une demo de git qui se passe bien ...
+
+On modifie depuis github
